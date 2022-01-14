@@ -41,3 +41,6 @@ C:\proyectos-programacion>
  
  **git push**
  Subir archivos locales despues de git add y git commit  se usa git push -u origin main, siendo origin los archivos locales y main el repositorio de git
+
+## Notacion markdown
+https://markdown.es/sintaxis-markdown/
